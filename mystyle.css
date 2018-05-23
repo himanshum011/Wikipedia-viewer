@@ -1,0 +1,86 @@
+html{  
+  background: #092B40;
+  margin-left: 60px;
+  margin-right: 60px;
+  height: 100%;
+  
+}
+
+
+.generate
+{
+	margin-right: 20px;
+	margin-top: 70px;
+	float:right;
+}
+
+
+.search-bar{
+
+	margin-top: -10px;
+	float: right;
+	border:none;
+	background: none;
+	padding: 10;
+	outline: none;
+}
+
+
+
+
+.backcolor{
+	background-color : #ACEDD9;
+	
+}
+
+.main_page{
+	background-color:#334355;
+	}
+
+.logo_size{
+	width: 200px;
+	float: left;
+}
+
+input[type=text] {
+  width: 100px;
+  -webkit-transition: width .7s ease-in-out;
+  transition: width .7s ease-in-out;
+  float: right;
+  margin-top: 70px;
+	margin-right: 30px;
+}
+
+input[type=text]:focus {
+  width:175px;
+}
+
+
+.font_size
+{
+	margin-top: 78px;
+	font-size: 35px;
+	color: white;
+	float: right;
+}
+
+.data{
+background-color: #333333;
+margin-top: 25px;
+margin-bottom: 25px;
+padding: 20px;
+border:1px solid;
+min-height: 140px;
+color: white;
+}
+
+.title{
+	font-family: 'Cinzel', serif;
+	font-size: 27px;
+	font-weight: 900;
+	
+}
+.content{
+	font-size: 14px;
+}
+	
